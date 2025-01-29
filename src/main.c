@@ -7,6 +7,6 @@
 
 
 int main() {
-    printf("%s", "happy birthday");
+    printf("%s", "Start");
     return 0;
 }
